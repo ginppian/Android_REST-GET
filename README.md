@@ -152,3 +152,8 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+
+## Fuente
+
+<a href="https://code.tutsplus.com/es/tutorials/android-from-scratch-using-rest-apis--cms-27117">REST API SCRATCH</a>
+<a href="https://developer.android.com/reference/java/net/HttpURLConnection.html">OFICIAL</a>
